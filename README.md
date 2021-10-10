@@ -1,4 +1,4 @@
-# Allocating forecast from article @ country to article @ store level 
+# Forecast allocation from article @ country level to article @ store level 
 
 For a retailer, the sales forecast needs to be done at three hierarchy levels(ordered from higher to lower) - 
 1) Department@Country level
